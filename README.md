@@ -5,7 +5,6 @@
 - [Algoritmanın Çalışma Mantığı]
 - [Zaman Karmaşıklığı]
 - [Algoritmanın Avantajları ve Dezavantajları]
-- [Kod Açıklaması]
 - [Programın Kullanımı]
 - [Kaynakça]
 
