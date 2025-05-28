@@ -23,8 +23,7 @@ Comb Sort, Bubble Sort'ta olduğu gibi komşu elemanları karşılaştırır, an
 
 ## Zaman Karmaşıklığı
 
-- **En İyi Durum**: O(n log n)
-- **Ortalama Durum**: O(n²/2^p) 
+- **En İyi Durum**: O(n log n) 
 - **En Kötü Durum**: O(n²)
 
 Genel olarak Comb Sort, Bubble Sort'tan daha etkili ve Quick Sort ile karşılaştırılabilir bir performansa sahiptir.
